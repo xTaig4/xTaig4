@@ -11,8 +11,6 @@
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 
-
-
 <br>
 
 <table border="5" align="center">
@@ -25,11 +23,6 @@
         <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=xTaig4&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="xTaig4's Most Used Languages"/>
   </td>
 </table>
-
-<hr>
-
-## ⚡️ Stats
-<br>
 
 <hr>
 
