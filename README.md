@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/xTaig4/count.svg" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
@@ -10,3 +10,16 @@
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+
+
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
+</p>
+
+<hr>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
