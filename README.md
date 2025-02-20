@@ -16,10 +16,10 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs,react" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,py,docker,rabbitmq,sqlite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,express" />
 </p>
 
 <hr>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
