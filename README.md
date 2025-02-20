@@ -15,22 +15,22 @@
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,py,docker,rabbitmq,sqlite" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,express" />
-</p>
+<table border="5" align="center">
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=cs,unity,py,docker,rabbitmq,sqlite" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,express" />
+  <td/>
+    
+  <td align="right">
+        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=xTaig4&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="xTaig4's Most Used Languages"/>
+  </td>
+</table>
 
 <hr>
 
 ## ⚡️ Stats
 <br>
-<div align=right>
 
-
-<hr>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=xTaig4&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="xTaig4's Most Used Languages" />
-</div>
 <hr>
 
   ## 🐍 My Contributions
