@@ -23,3 +23,9 @@
 
 <hr>
 
+## ⚡️ Stats
+<br>
+<div align=right>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=xTaig4&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="xTaig4's Most Used Languages" />
+</div>
+<hr>
