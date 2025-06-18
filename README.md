@@ -9,14 +9,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=00C000&duration=4000&lines=Hi+There!+👋;+I'm+Tai!;" />
 </h1>
 
-### A frontend developer with a flair for backend.
+### Frontend developer with a flair for backend.
 
 <br>
 
 <table border="5" align="center">
   <td align="center">
-    <img src="https://skillicons.dev/icons?i=cs,unity,py,docker,rabbitmq,sqlite" /> 
-    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=cs,unity,docker,rabbitmq,sqlite" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css" />
   <td/>
     
   <td align="right">
