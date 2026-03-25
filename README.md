@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=00C000&duration=4000&lines=Hi+There!+👋;+I'm+Tai!;" />
 </h1>
 
-### Frontend developer with a flair for backend.
+### Fullstack developer with a flair for AI.
 
 <br>
 
